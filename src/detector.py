@@ -1,5 +1,4 @@
 """Obstacle detector for the Kestrel-1 camera."""
-import os
 
 THRESHOLD_CM = 30
 
